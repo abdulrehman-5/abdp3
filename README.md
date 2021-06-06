@@ -4,8 +4,7 @@
 Need these dependencies:
 ```console
 pip install streamlit
-pip install scikit-learn
-pip install matplotlib
+cv2
 ```
 
 ## Usage
