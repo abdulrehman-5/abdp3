@@ -1,10 +1,10 @@
-# Face detection demo (Flask app)
+# Face detection App
 
 This is a very simple Flask app that let's the user upload a image and detects how many (if any) faces are there in the picture.
 
 ## Hosting on Heroku
 
-Try it [here](https://face-detection-flask.herokuapp.com/).
+Try it [here](https://abdp3.herokuapp.com/).
 
 ##### Generate pipfile with command:
 
